@@ -1,4 +1,4 @@
-# Flight_Ops_MAVLink_Telemetry_Analyzer
+# Flight Ops: MAVLink Telemetry Analyzer
 Automated MAVLink telemetry analysis tool for autonomous agricultural flight operations
 
 *[Read this in Portuguese / Leia em Português](README.pt-br.md)*
