@@ -18,11 +18,13 @@ In large-scale autonomous agricultural aviation, relying solely on graphical int
 *   QGroundControl (for `.tlog` generation)
 *   ArduPilot SITL (Software In The Loop) for flight simulation
 
+<!--
 ## 🚀 How to run
 1. Ensure you have the required `.tlog` file in the `/data` directory.
 2. Install the necessary Python dependencies:
    ```bash
    pip install -r requirements.txt
+-->
 
 ## ⚠️ Copyright and license
 © 2026 Douglas Mardegan Colodete. All Rights Reserved.
