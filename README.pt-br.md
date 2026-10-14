@@ -25,7 +25,7 @@ Na aviação agrícola autônoma de grande escala, depender exclusivamente de in
    pip install -r requirements.txt
 -->
 
-## ⚠️ Direitos Autorais e Licença
+## ⚠️ Direitos autorais e licença
 © 2026 Douglas Mardegan Colodete. Todos os Direitos Reservados.
 
 Este projeto e seu código-fonte são estritamente proprietários. É terminantemente proibida a cópia, distribuição, modificação, exibição pública ou uso não autorizado deste código, por qualquer meio. Este repositório tem como finalidade exclusiva servir como demonstração de portfólio profissional.
