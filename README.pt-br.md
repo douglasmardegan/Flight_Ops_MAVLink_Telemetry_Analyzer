@@ -17,11 +17,13 @@ Na aviação agrícola autônoma de grande escala, depender exclusivamente de in
 *   QGroundControl (para a geração do arquivo `.tlog`)
 *   ArduPilot SITL (Software In The Loop) para a simulação de voo
 
+<!--
 ## 🚀 Como executar
 1. Certifique-se de que o arquivo `.tlog` necessário esteja no diretório `/data`.
 2. Instale as dependências requeridas do Python:
    ```bash
    pip install -r requirements.txt
+-->
 
 ## ⚠️ Direitos Autorais e Licença
 © 2026 Douglas Mardegan Colodete. Todos os Direitos Reservados.
