@@ -24,7 +24,7 @@ In large-scale autonomous agricultural aviation, relying solely on graphical int
    ```bash
    pip install -r requirements.txt
 
-⚠️ Copyright and license
+## ⚠️ Copyright and license
 © 2026 Douglas Mardegan Colodete. All Rights Reserved.
 
 This project and its source code are strictly proprietary. Unauthorized copying, distribution, modification, public display, or use of this code, via any medium, is strictly prohibited. This repository serves exclusively as a professional portfolio demonstration.
